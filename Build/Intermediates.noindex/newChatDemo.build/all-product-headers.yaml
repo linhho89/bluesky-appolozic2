@@ -1,0 +1,28 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/linhht/Documents/demo-chat/newChatDemo/ios/Build/Products/Debug-iphonesimulator/newChatDemo.app/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "newChatDemo-Swift.h",
+          'external-contents': "/Users/linhht/Documents/demo-chat/newChatDemo/ios/Build/Products/Debug-iphonesimulator/newChatDemo.app/Headers/newChatDemo-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/linhht/Documents/demo-chat/newChatDemo/ios/Build/Products/Debug-iphonesimulator/newChatDemo.app/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/linhht/Documents/demo-chat/newChatDemo/ios/Build/Intermediates.noindex/newChatDemo.build/Debug-iphonesimulator/newChatDemo.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/linhht/Documents/demo-chat/newChatDemo/ios/Build/Products/Debug-iphonesimulator/Pods_newChatDemo.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-newChatDemo-umbrella.h",
+          'external-contents': "/Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/Target Support Files/Pods-newChatDemo/Pods-newChatDemo-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_newChatDemo-Swift.h",
+          'external-contents': "/Users/linhht/Documents/demo-chat/newChatDemo/ios/Build/Products/Debug-iphonesimulator/Pods_newChatDemo.framework/Headers/Pods_newChatDemo-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/linhht/Documents/demo-chat/newChatDemo/ios/Build/Products/Debug-iphonesimulator/Pods_newChatDemo.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/linhht/Documents/demo-chat/newChatDemo/ios/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-newChatDemo.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

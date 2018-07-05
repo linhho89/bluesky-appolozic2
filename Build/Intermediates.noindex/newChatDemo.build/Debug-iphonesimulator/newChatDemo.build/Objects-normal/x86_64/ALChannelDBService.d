@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/ALChannelDBService.m \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/ALChannelDBService.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/ALChannel.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/DomainClasses/ALJson.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/ALConversationProxy.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/ALTopicDetail.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/DB_ConversationProxy.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/DB_CHANNEL.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/DB_CHANNEL_USER_X.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/Handlers/ALDBHandler.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/DomainClasses/DB_CONTACT.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/ALChannelUserX.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/Handlers/ALApplozicSettings.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/Resources/Files/ALConstant.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/Handlers/ALUserDefaultsHandler.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/ALContactDBService.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/DomainClasses/ALContact.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/ALUserDetail.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/ALUserBlocked.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/ALContactsResponse.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Applozic/Applozic/ALChannelUser.h

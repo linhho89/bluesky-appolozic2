@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "0b04b64cf606958d93f09156ae3d7aba"
+build_time: [1529657633, 163169000]
+inputs:
+  "/Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/Applozic/Applozic/SoundRecordingView.swift": [1529657092, 0]

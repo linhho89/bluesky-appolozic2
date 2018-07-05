@@ -1,0 +1,43 @@
+dependencies: \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/Applozic/Applozic/ViewControllers/ALReceiverUserProfileVC.m \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Applozic.build/module.modulemap \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/Target\ Support\ Files/Applozic/Applozic-prefix.pch \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/Applozic/Applozic/ViewControllers/ALReceiverUserProfileVC.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/Applozic/Applozic/ALContactService.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/Applozic/Applozic/DomainClasses/ALContact.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/Applozic/Applozic/DomainClasses/ALJson.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/Applozic/Applozic/DomainClasses/DB_CONTACT.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/Applozic/Applozic/Utilities/ALUtilityClass.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/Applozic/Applozic/ALChatLauncher.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/Applozic/Applozic/ALConversationProxy.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/Applozic/Applozic/ALTopicDetail.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/Applozic/Applozic/DB_ConversationProxy.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/Applozic/Applozic/DomainClasses/ALMessage.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/Applozic/Applozic/DomainClasses/ALFileMetaInfo.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/Applozic/Applozic/Handlers/ALApplozicSettings.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SDWebImage.build/module.modulemap \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/UIView+WebCache.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/UIImage+GIF.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/UIImage+ForceDecode.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/SDWebImageManager.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/SDWebImageImageIOCoder.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/SDWebImageGIFCoder.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/SDWebImageCodersManager.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/SDWebImageFrame.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/SDWebImageCoderHelper.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/SDWebImageCoder.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/SDImageCacheConfig.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/SDImageCache.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/NSImage+WebCache.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h \
+  /Users/linhht/Documents/demo-chat/newChatDemo/ios/Pods/Target\ Support\ Files/SDWebImage/SDWebImage-umbrella.h
